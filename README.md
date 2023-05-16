@@ -47,5 +47,6 @@ Replace <hostname> with the target domain or IP address.
 ### Usage
 For detailed instructions and examples on how to use each tool, refer to the project's documentation.
 
-Contributing
-Contributions are welcome! If you encounter any issues or have suggestions for enhancements, please open an issue or submit a pull request. Please refer to the contribution guidelines for more information.
+### Contributing
+Contributions are welcome! If you encounter any issues or have suggestions for enhancements, please open an issue or submit a pull request. 
+Please refer to the contribution guidelines for more information.
